@@ -19,29 +19,15 @@ Uma série de exemplos passo-a-passo que informam o que você deve executar para
 
 git clone https://github.com/regyfelipe/Registrode-batida-com-spreadsheets.git
 
-Navegue até o diretório do projeto:
 
-bash
 
-Copiar código
+### O que foi adicionado
 
-cd Registrode-batida-com-spreadsheets
+- A imagem foi inserida na seção "Exemplo de Interface do Usuário" com a seguinte linha: 
+  ```markdown
+  ![Interface do Usuário](imgs/img1.png)
 
-Instale as dependências:
 
-bash
-
-Copiar código
-
-flutter pub get
-
-Execute o aplicativo:
-
-bash
-
-Copiar código
-
-flutter run
 
 Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
 
@@ -49,43 +35,7 @@ Termine com um exemplo de como obter dados do sistema ou como usá-los para uma 
 
 Explicar como executar os testes automatizados para este sistema.
 
-🔩 Análise dos testes de ponta a ponta
 
-Os testes de ponta a ponta verificam a funcionalidade do aplicativo em um ambiente simulado. Para executar os testes, use o comando:
-
-bash
-
-Copiar código
-
-flutter test
-
-⌨️ Testes de estilo de codificação
-
-Os testes de estilo de codificação ajudam a garantir que o código siga as melhores práticas e padrões. Para verificar o estilo de codificação, use o comando:
-
-bash
-
-Copiar código
-
-flutter analyze
-
-📦 Implantação
-
-Adicione notas adicionais sobre como implantar isso em um sistema ativo. A implantação do BatePonto App pode ser feita em dispositivos Android ou iOS.
-
-🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto:
-
-Flutter - O framework usado para desenvolvimento de aplicativos móveis.
-
-Dart - Linguagem de programação utilizada no Flutter.
-
-Google Sheets API - Para manipulação e armazenamento dos registros de batidas.
-
-🖇️ Colaborando
-
-Por favor, leia o CONTRIBUICAO.md para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
 
 📌 Versão
 
