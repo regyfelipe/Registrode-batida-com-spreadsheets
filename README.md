@@ -25,7 +25,7 @@ git clone https://github.com/regyfelipe/Registrode-batida-com-spreadsheets.git
 
 - A imagem foi inserida na seção "Exemplo de Interface do Usuário" com a seguinte linha: 
   ```markdown
-  ![Interface do Usuário](imgs/img1.png)
+  ![Interface do Usuário](.\imgs\img1.png)
 
 
 
