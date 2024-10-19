@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "controle-de-ponto-436814",
+  "private_key_id": "0490dfdc67b92021b94780936e2e46280f884701",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCgJ4bTAzUH0Xdb\nbqbk84KBSXsVbX3Ks/rhfxQAMp6mUmc+bqdsiuCrKg/kA7YpF7I7G612kuSmSH04\niPwWGXfa/NW1bNLwGUTJig6wQjlGJ3JPX5EqCOh9LTAhSoOS0QjlKUyyc3QFqwr1\nzbWEVVR3C+Y7RPcehJaYgcUK7HcFbv21eXoqVPUnVcyqjDovaM/Fy9Go7TQJK/F0\nEqhWrT6ye7BFm1oXr33zHJ1pfNxrtiK3b0cPVyFaVe4IXx9TlHYvG3/u27lKhQai\nxRLQ3ztQ2Gp7t1saQhF8JANsrw2jDcRIa38aE9z7AQvTdp6HOU6wU5G/KkGM/yCB\nVvRRjNFJAgMBAAECggEADx7sQDjJsi1F4zoO3W4oRv1uQ4pzTMblZV9Si7PVZGEP\nVZOsKje9spHMFXxMOWD+90zlRpBKSj2gPpnTj/qWy43N8TOPG6zz4HT9ogj+nO/V\nTEbHm+JioPIgdmQxby33p9TYZIwF/kSbfYDbv6mWyfUAdCqBjArhdRCutYAeuw8/\n/C6hLYtwSKKWXhe0i32/M15npEmzMmSoYPP58Hb3D9D21F/pewua8Dk/SaP6RLRG\nP0IKO2rXI6rvgUY7Wu6wf+XqTRkDFTkMbmwmBgU1++8dy/FaRFaJCTI6k20LznQ6\n3J9yPRL9KSAbqRdUw3oo4adIDKAP3aQnf7WOYx/VaQKBgQDgxXIahby8Rti6WQfY\nUtF3RiYg3MfOBpP++pSHh6DDe2hdKncqQmSlr6FLmf6tS0lWq8cfZesY0IRey/17\nwyjIdwHX8rKfT42S5p1be4ELjreQMV2YkFukq0iY9VT75YreOKs1wKVxVD3se2j/\nkhX7DsxxKpX/0tPB1DxQNiSmBwKBgQC2Z9HdAz9LMaBhFMdH7d+BOtGagpQzSGu2\nVZDw2PDdGsZ1uKSMc+NprBTqp9Jbc0wwVi7FWUeE7zZtnZ524fkucqR6uwjfZyS6\ngTuB0qTmtllyFfU29W/Xt+orsVbj+CCO8bfTy5H5n1yiNxzAwDEhZS7ACTrjHGvd\nWYDck/V6LwKBgH4fjKVBQeRLxLTb3EEQR6Ur4Z0zBZKfsk+y/8EE47qM9sTAXVmD\nI8KsyE8JvBQ1WJOfk/4UTFUCPCSNRlE58xp5XLl137DxDLnPWaDJrmFz1aC9co13\nA1VlHzllACjQZpnHJprk3HC5Gn4lyYcOy/KyHRmrEbwY6uWqV6WSnAHlAoGALim0\nOST7PcJ/flJN5OxUplYGef4WF6x6Zhjdp7afrrV6CI0ER++EXFgKqyBx4mcZnxoQ\nmC1yJjiMI83CLwAdmh21dsIjCrcF2pWeQ8rVpPX9SRw5hQE0nvmSsCAfh25ifwq5\npUZd2Tj1rrAX/MgnJvZ+kGdFmfi1a72dGTXw6E0CgYEAjI5ukUQMtAfGIaLPPJO5\nlTLjm5siDVJIQ0mMIiwoE9f+qxJSYOoO3F77bWy6/PCmfQh5Yaz2MktYyTzXv3AM\n9HZxv+AWKLsz6gU5tJAABfcUk8dhma2Tdak4QK1lTKijlwt+MajCQ0V/Y+LtWr2L\nq1u8o6PwQVippZH/QsMIoNk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "controleponto@controle-de-ponto-436814.iam.gserviceaccount.com",
+  "client_id": "103754367569299828353",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/controleponto%40controle-de-ponto-436814.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
